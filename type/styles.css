@@ -1,0 +1,132 @@
+/* Type */
+
+body {
+	background-color: #00041d;
+	color: black;
+	font-family: 'Permanent Marker', cursive;
+	line-height: 1;
+    font-size: 12em;
+	max-width: 200em;    
+	margin:150px;
+}
+.new-color {
+	color: blue;
+}
+.other-font {
+	font-family: serif;
+}
+.Moon-color {
+	color: white;
+}
+.Moon-font {
+	font-family: 'Chilanka', cursive;
+}
+
+.moon-position{
+ position: absolute;
+  left:600px;
+  top: 150px;
+}
+
+.fire{
+position: absolute;
+left:-300px;
+top:520px;
+color: orange;
+filter: drop-shadow(20px 20px 20px red);
+rotate:90deg;
+}
+.fire-two{
+position: absolute;
+left:-300px;
+top:600px;
+color: orange;
+filter: drop-shadow(20px 20px 20px red);
+transform: rotate(75deg);
+}
+
+.logs{
+	color: #714f43;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	position: absolute;
+	left:-500px;
+	top:850px;
+}
+
+.logstwo{
+	color: #714f43;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	position: absolute;
+	left:-550px;
+	top:750px;
+}
+
+.logsthree{
+	color: #714f43;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	position: absolute;
+	left:-550px;
+	top:430px;
+}
+
+.logsfour{
+	color: #714f43;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	position: absolute;
+	left:-450px;
+	top:330px;
+}
+
+.logsfive{
+	color: #714f43;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	position: absolute;
+	left:-250px;
+	top:350px;
+}
+
+.logssix{
+	color: #714f43;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	position: absolute;
+	left:-250px;
+	top:830px;
+}
+
+.Stars{
+	font-family: 'Roboto Slab', serif;
+	font-size:.6em;
+	color: yellow;
+	font-style: italic;
+	position: absolute;
+	left:300px;
+	top:100px;
+}
+
+
+main {
+	position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: right;
+    top: -200px;
+    left: 220px;
+    filter: drop-shadow(7px 7px 10px orange);
+
+}
+
+}
+
+
+
+
+
+
+
+
+
